@@ -1,9 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Python Worksheet 1
+# # Python Worksheet 1 Solutions
 # 
-# Prerequisites: The videos from "Python data types".
+# __Prerequisites:__ The videos from "Python data types".
+# __Corresponding Outcomes__:
+#  - __EO2:__ Examine and contrast various common data structures.
+#  - __GOPy2:__ Compare and contrast Python-specific data structures (e.g. dictionaries, lists).
 
 # ## Question
 # 
@@ -258,11 +261,11 @@ print("100:"+chr(n))
 
 # For each integer `i` from 0 (inclusive) to 255 (inclusive), print `i` and `chr(i)` on the same line, as you just did for `n=100`.  Use a `for` loop.  (Don't worry if 0 through 32 look blank.  That is correct; they all represent whitespace, I believe.  For example, newline `"\n"` corresponds to 10; can you recognize that in the for loop?)
 
-# In[53]:
+# In[4]:
 
 
 for i in range(256):
-    print("i:"+chr(i))
+    print(f"{i}:"+"chr(i)")
 
 
 # ## Question

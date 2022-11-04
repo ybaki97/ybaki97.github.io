@@ -2,6 +2,11 @@
 # coding: utf-8
 
 # # Python Homework #1
+# 
+
+# ## Corresponding Outcomes
+#  - __EO2:__ Examine and contrast various common data structures.
+#  - __GOPy2:__ Compare and contrast Python-specific data structures (e.g. dictionaries, lists).
 
 # ## Instructions
 # In a group of 1-3 students, work on answering the following questions in a Jupyter notebook. Submit the ipynb file with your solutions to Canvas. You and your group members can submit the same assignment, but all of you should upload it individually to Canvas.
