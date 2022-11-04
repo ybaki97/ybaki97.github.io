@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: Week6/Week6-Intro
+  sections:
+  - file: Week6/Week6Mon
+  - file: Week6/PyWk1sol
+  - file: Week6/PyHW1
+
+
+
