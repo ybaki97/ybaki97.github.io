@@ -1,3 +1,3 @@
 # Week 6 Materials
 
-Testing testing. Here is some information.
+Welcome to Week 6, everyone! This is our first unit of Python.
