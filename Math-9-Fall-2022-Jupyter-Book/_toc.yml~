@@ -5,5 +5,5 @@ format: jb-book
 root: intro
 chapters:
   - file "Week 6 Monday Lecture"
-  - file "Week 6/Python Worksheet 1.ipynb"
+  - file Week 6/Python Worksheet 1.ipynb
   - file "Python Worksheet 1"

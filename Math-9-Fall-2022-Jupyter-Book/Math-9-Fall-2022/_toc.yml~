@@ -9,6 +9,9 @@ chapters:
   - file: Week6/Week6Mon
   - file: Week6/PyWk1sol
   - file: Week6/PyHW1
+- file: Week7/Week7-Intro
+  sections:
+  - file: Week7/Week7Mon
 
 
 
