@@ -1,0 +1,17 @@
+body {
+  font-family: Open Sans;
+  max-width: 800px;
+
+}
+
+.ipa {
+  font-family: Arial;
+}
+
+header h1 {
+  margin-bottom: 0;
+}
+
+header h2 {
+  margin-top: 0;
+}
