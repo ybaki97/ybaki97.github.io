@@ -15,3 +15,7 @@ header h1 {
 header h2 {
   margin-top: 0;
 }
+
+table {
+  white-space: nowrap;
+}
