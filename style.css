@@ -30,9 +30,6 @@ img {
 
 figure, article {
   float: left;
-}
-
-article {
   width: auto;
 }
 
