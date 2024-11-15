@@ -21,13 +21,17 @@ table {
 }
 
 img {
-  display: block;
-  width: 100%;
+  width: 300px;
   height: auto;
+  object-fit: contain;
+}
+
+main {
+  width: auto;
 }
 
 figure {
-  width: 300px;
+  float: left;
 }
 
 figcaption {
