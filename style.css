@@ -28,6 +28,10 @@ img {
   display: block;
 }
 
+#me {
+  width: 25%;
+}
+
 .flex {
   display: flex;
 }
