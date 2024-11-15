@@ -28,9 +28,8 @@ img {
   display: block;
 }
 
-figure, article {
-  float: left;
-  width: auto;
+.flex {
+  display: flex;
 }
 
 figcaption {
