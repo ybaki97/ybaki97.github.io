@@ -20,10 +20,13 @@ table {
   white-space: nowrap;
 }
 
-figure {
+main, figure {
   float: left;
+  padding: 0;
+  margin: 0;
 }
 
 figcaption {
+  margin: auto;
   text-align: center;
 }
