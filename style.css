@@ -4,6 +4,10 @@ body {
 
 }
 
+header, footer {
+  clear: both;
+}
+
 .ipa {
   font-family: Arial;
 }
@@ -18,12 +22,6 @@ header h2 {
 
 table {
   white-space: nowrap;
-}
-
-img {
-  width: 300px;
-  height: auto;
-  object-fit: contain;
 }
 
 main {
