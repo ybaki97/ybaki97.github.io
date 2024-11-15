@@ -24,12 +24,12 @@ table {
   white-space: nowrap;
 }
 
-main {
-  width: auto;
+figure, article {
+  float: left;
 }
 
-figure {
-  float: left;
+article {
+  width: auto;
 }
 
 figcaption {
