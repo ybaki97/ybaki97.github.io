@@ -6,14 +6,15 @@
 	<h2> Upcoming </h2>
 	<ul>
 		<li> November 8-9 2025, <a href="https://sites.google.com/view/quasy-coniii/home" target="_blank">QuaSy-Con III</a> at Iowa State University.
-		<li> December 1-5 2025, <a href="", target="_blank">SLMath Workshop on Infinite-Dimensional Division Algebras</a> in Berkeley, CA
+		<li> December 1-5 2025, <a href="https://www.slmath.org/workshops/1122", target="_blank">SLMath Workshop on Infinite-Dimensional Division Algebras</a> in Berkeley, CA.
 		<li> December 15-19 2025, <a href="https://sites.google.com/uw.edu/seattlencalgebra2025" target="_blank">Seattle NonCommutative Algebra Conference</a> at the University of Washington.
-		<li> January 2026, <a href="https://jointmathematicsmeetings.org/jmm" target="_blank">JMM</a> in Washington, D.C
+		<li> January 2026, <a href="https://jointmathematicsmeetings.org/jmm" target="_blank">JMM</a> in Washington, D.C.
 
 	</ul>
 	<h2> Previous </h2>
 	<ul>
 		<li> February 8, 2025, <a href="https://sites.google.com/fullerton.edu/wimsocal2025/home?authuser=0", target="_blank"> WiMSoCal</a> at California State University, Fullerton.
-		<li> September 14-15, 2024, AMS Fall Central Sectional Meeting at the University of Texas, San Antonio.
+			<li> September 14-15, 2024,<a href="https://www.ams.org/meetings/sectional/2319_program_ss5.html#title",target="_blank"> AMS Fall Central Sectional Meeting</a> at the University of Texas, San Antonio.
+		<li> February 5-9, 2024, <a href="https://www.slmath.org/workshops/1055",target="_blank"> SLMath Workshop on Noncommutative Algebraic Geometry</a> in Berkeley, CA.
 	</ul>
 {%include bottom.html %}
